@@ -1,0 +1,17 @@
+{
+  "name": "art-of-git-rebasing",
+  "owner": {
+    "name": "Bartosz Moczulski",
+    "url": "https://bartosz.codes/"
+  },
+  "metadata": {
+    "description": "The agent skill from the talk \"The Art of Git Rebasing: Automated by AI, Still Worth Knowing\""
+  },
+  "plugins": [
+    {
+      "name": "rebase-my-story",
+      "source": "./plugins/rebase-my-story",
+      "description": "Rewrite a Git branch into a clean, reviewable series of commits and prove the result is right"
+    }
+  ]
+}

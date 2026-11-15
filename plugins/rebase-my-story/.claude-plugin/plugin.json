@@ -1,0 +1,12 @@
+{
+  "name": "rebase-my-story",
+  "description": "Rewrite a Git branch into a clean, reviewable series of commits and prove the result is right: fixups absorbed, commits split, reordered and reworded, stacks moved onto a new base, conflicts resolved by intent, every commit built",
+  "author": {
+    "name": "Bartosz Moczulski",
+    "url": "https://bartosz.codes/"
+  },
+  "homepage": "https://github.com/bmoczulski/art-of-git-rebasing",
+  "repository": "https://github.com/bmoczulski/art-of-git-rebasing",
+  "license": "MIT",
+  "keywords": ["git", "rebase", "commits", "code review", "fixup", "range-diff"]
+}
