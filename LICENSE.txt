@@ -1,0 +1,54 @@
+Custom License
+Copyright (c) 2026 Bartosz Moczulski
+
+This license covers the presentation materials in this repository and on its
+GitHub Pages site: the slides (HTML and PDF), their text, diagrams, recordings
+and images. It does not cover the agent skill in plugins/rebase-my-story/,
+which is MIT-licensed (see plugins/rebase-my-story/LICENSE).
+
+The presentation materials are made publicly available for educational
+purposes under the following terms:
+
+1. PERMITTED USE
+   You may view, download, and study the presentation materials for personal
+   educational purposes.
+
+2. ATTRIBUTION
+   Any reference to this work must clearly attribute it to:
+   Bartosz Moczulski, "The Art of Git Rebasing: Automated by AI, Still Worth Knowing"
+   and, where the medium allows, link to:
+   https://github.com/bmoczulski/art-of-git-rebasing
+
+3. QUOTING
+   You may quote the presentation materials without asking, in posts,
+   articles, reviews, notes, courses and talks, online or offline:
+   a) a few lines of text, a code snippet or a diagram, or
+   b) an image of individual slides (a screenshot, a photo of the screen),
+   as long as the quote is credited as in point 2 and is a part of the
+   presentation materials, not a copy of them: reposting the deck, or
+   most of it, slide by slide is not quoting.
+   Nothing in this license limits your statutory rights, such as fair use,
+   fair dealing or the right of quotation.
+
+4. RESTRICTIONS
+   Beyond the quoting allowed in point 3, the following uses are prohibited
+   without prior written permission:
+
+   a) Copying, reproducing, adapting, or redistributing the materials as a
+      whole or in substantial part
+   b) Building public presentations, lectures, videos, or courses (online or
+      offline) on them
+   c) Removing this license or any attribution notices
+   d) Presenting any portion of this work as your own original work
+
+5. THIRD-PARTY MATERIAL
+   Photographs, screenshots of other projects, fonts and libraries used in the
+   slides remain under their own licenses; their sources are credited in the
+   slides' source.
+
+6. DISCLAIMER
+   This material is provided "as is" without warranty of any kind, express or implied.
+
+All rights not expressly granted herein are reserved.
+
+For permission requests, contact: moczulski@gmail.com
