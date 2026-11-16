@@ -8,7 +8,7 @@ Your pull request is a story: one commit, one job, in an order a reviewer can fo
 
 ## Slides
 
-**[Open the slides](https://bmoczulski.github.io/art-of-git-rebasing/)** in your browser, bonus slides included. Use the arrow keys or Space to move on, `F` for full screen.
+**[Open the slides](https://bmoczulski.github.io/art-of-git-rebasing/)** in your browser, bonus slides included. Use the arrow keys or Space to move on, `F` for full screen. Or **[download the PDF](https://bmoczulski.github.io/art-of-git-rebasing/art-of-git-rebasing.pdf)**, one page per click.
 
 ## The skill: rebase-my-story
 
@@ -55,7 +55,7 @@ The skill is a plain directory in the [Agent Skills](https://agentskills.io/) fo
 
 ## License
 
-- Slides and other presentation materials: custom license, educational use only, see [LICENSE.txt](LICENSE.txt).
+- Slides and other presentation materials: custom license, free to study and to quote with credit, see [LICENSE.txt](LICENSE.txt).
 - The skill (`plugins/rebase-my-story/`): MIT, see [its LICENSE](plugins/rebase-my-story/LICENSE).
 
 ## Contact
