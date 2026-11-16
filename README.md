@@ -1,6 +1,6 @@
 # The Art of Git Rebasing
 
-[![The Art of Git Rebasing: Automated by AI, Still Worth Knowing](assets/title.png)](https://bmoczulski.github.io/art-of-git-rebasing/)
+[![The Art of Git Rebasing: Automated by AI, Still Worth Knowing](assets/title.png)](https://bmoczulski.github.io/art-of-git-rebasing/art-of-git-rebasing.html)
 
 Slides and the AI agent skill from the talk **"The Art of Git Rebasing: Automated by AI, Still Worth Knowing"**, code::dive, 19 November 2026.
 
@@ -8,7 +8,7 @@ Your pull request is a story: one commit, one job, in an order a reviewer can fo
 
 ## Slides
 
-**[Open the slides](https://bmoczulski.github.io/art-of-git-rebasing/)** in your browser, bonus slides included. Use the arrow keys or Space to move on, `F` for full screen. Or **[download the PDF](https://bmoczulski.github.io/art-of-git-rebasing/art-of-git-rebasing.pdf)**, one page per click.
+**[Open the slides](https://bmoczulski.github.io/art-of-git-rebasing/art-of-git-rebasing.html)** in your browser, bonus slides included. Use the arrow keys or Space to move on, `F` for full screen. Or **[download the PDF](https://bmoczulski.github.io/art-of-git-rebasing/art-of-git-rebasing.pdf)**, one page per click.
 
 ## The skill: rebase-my-story
 
